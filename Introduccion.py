@@ -154,7 +154,7 @@ print(f"populariey increased by {12}%") # Se puede agregar en
 print(f"I would walk {500} miles") # Ter = I would walk 500 miles
 
 degrees = 70
-print(f"Temperature: {degrees}F") # Ter = Temperature: 70%
+print(f"Temperature: {degrees}") # Ter = Temperature: 70%
 
 movie = "Vertigo"
 display = f"Airing tonight: {movie}"
